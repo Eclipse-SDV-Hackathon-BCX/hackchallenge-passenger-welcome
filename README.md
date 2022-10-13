@@ -14,10 +14,12 @@ Your hack team should have the following skills:
 
 As we want to focus on the technology exploration and integration, consider the following steps as exemplary, you're free to chose your own set of technology of course.
 
-Step 1 - Prototype your use case
+[Step 1 - Prototype your use case](/docs/step-1-prototyping.md)
 
-Step 2 - Transfer your prototype to working application
+[Step 2 - Transfer your prototype into a working application](/docs/step-2-generating.md)
 
-Step 3 - Extend the your use case with the component you need for you use case
+[Step 3 - Extend the your use case with the component you need for you use case](/docs/step-3-exending.md)
 
-Step 4 - Build and deploy to a device
+[Step 4 - Build and deploy to a device](/docs/step-4-deploying.md)
+
+Happy hacking!
