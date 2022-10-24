@@ -1,11 +1,11 @@
 # Eclipse SDV Hackathon on BCX2022
 ## Welcome to the "Welcome passenger" hack challenge! 
 
-The goal is for a passenger to feel comfortable entering and using a vehicle. How should your own car or a car sharing car behave when a passenger approaches? Open the door or trunk? Adjust the seat and steering wheel position? Adjust the temparature?
+The goal is for a passenger to feel comfortable entering and using a vehicle. How should your own car or a carsharing car behave when a passenger approaches? Open the door or trunk? Adjust the seat and steering wheel position? Adjust the temparature? What comes to your mind about how the vehicle should behave?
 
 
 
-This hack challenge focuses on encouraging creativity, trying out ideas in the form of rapid prototyping in a playground and transfer them easily to a working vehicle application using the Eclipse projects __Velocitas__, __Kuksa__ and __Leda__.
+This hack challenge focuses on encouraging creativity, ideate ideas in the form of rapid prototyping in a playground and transfer them easily to a working vehicle application trying out them on a devide using the Eclipse projects __Velocitas__, __Kuksa__ and __Leda__.
 
 In this hack challenge, you can
 - ideate your use case in easy way by using the provided playground,
