@@ -1,7 +1,7 @@
 # Eclipse SDV Hackathon on BCX2022
-## Welcome to the "Welcome passenger" hack challenge! 
+## Welcome to the 'Passenger Welcome' hack challenge! 
 
-The goal is for a passenger to feel comfortable entering and using a vehicle. How should your own car or a carsharing car behave when a passenger approaches? Open the door or trunk? Adjust the seat and steering wheel position? Adjust the temparature? What comes to your mind about how the vehicle should behave?
+The idea of the 'Passenger Welcome' use case is that the driver (or a passenger) is detected while he is approaching the vehicle. Based on this information, your _Welcome Vehicle Application_ could control a sequence of events, such as welcoming the passenger with a special lighting sequence (using lights outside and/or inside the car), automatically opening the door or trunk, adjusting the seat position according to driver preferences, the same for steering wheel position, HVAC, music, etc. – there is no limitation to the creativity in this hackathon. What comes to your mind about how your own vehicle or a carsharing car should behave when a passenger approaches?
 
 
 
@@ -19,7 +19,7 @@ Your hack team should have the following skills:
 
 We would recomment the following steps for the hack challenge:
 
-[Step 1 - Prototype your use case](/docs/step-1-prototyping.md)
+[Step 1 - Prototype your idea of the 'Passenger Welcome' functionality](/docs/step-1-prototyping.md)
 
 [Step 2 - Transfer your prototype into a working application](/docs/step-2-generating.md)
 
