@@ -21,7 +21,7 @@ We would recomment the following steps for the hack challenge:
 
 [Step 1 - Prototype your idea of the 'Passenger Welcome' functionality](/docs/step-1-prototyping.md)
 
-[Step 2 - Transfer your prototype into a working application](/docs/step-2-generating.md)
+[Step 2 - Transfer your prototype into a vehicle application](/docs/step-2-generating.md)
 
 [Step 3 - Extend the your use case with the component you need for you use case](/docs/step-3-exending.md)
 
