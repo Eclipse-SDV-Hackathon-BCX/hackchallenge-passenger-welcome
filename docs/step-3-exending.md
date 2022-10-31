@@ -12,6 +12,5 @@ We prepared the a seat service. You could use for example the your seat service 
 
 You can validate the interaction of the service with your vehicle app by adding your vehicle service to the /app/AppManifest.json, [start the services](https://websites.eclipseprojects.io/velocitas/docs/tutorials/quickstart/#starting-runtime-services) locally and [debug](https://websites.eclipseprojects.io/velocitas/docs/tutorials/quickstart/#debugging-vehicle-app) them.
 
-
-
+__Next step:__ [Build and deploy to a device](/docs/step-4-deploying.md)
 
