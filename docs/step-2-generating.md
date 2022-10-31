@@ -9,6 +9,11 @@ If you press this button you get asked to authorize _velocitas-project-generator
 
 If you would like to know what exactly the generator is doing, please have a look on the code: [velocitas-project-generator-npm](https://github.com/eclipse-velocitas/velocitas-project-generator-npm). Feedback is welcome :)
 
-After the generation is completed a pop-up dialog with your repository URL will be displayed.
+After the generation is completed a pop-up dialog with your repository URL will be displayed. The newly created repository contains now:
+- _/app/main.py_ with your prototype code transferred to your recommented app structure
+- _/app/AppManifest.json_ with definition of required services
+- _/app/requirements.txt_ with definition of requirements
+- _/.devcontainer_/ required scripts to install everything in Microsoft Visual Studio Code 
+- _/.gitHub/workflow/_ with all required CI/CD pipelines to build, test and deploy the vehicle application as container to the GitHub container registry
 
 __Next step:__ [Extend the your use case with the component you need for you use case](/docs/step-3-exending.md)
