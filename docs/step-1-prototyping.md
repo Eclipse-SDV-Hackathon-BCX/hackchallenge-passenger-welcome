@@ -26,16 +26,14 @@ The next step would be to prototype your idea. To do so:
 - Go to the _Code_ section and
 - Start your prototype right away.
 
-A quick introduction for how to use the playground to build prototypes you can be found here: LINK to overview video
-
 <img src="../assets/code.png" alt="Code Section">
 
 To test your prototype go to the _Run_ section, which opens a dashboard consisting all vehicle and application components similar to mockups. The control center on the right side has an integrated terminal showing all of your prototyped outputs as well as a list of all called VSS API's. The _Run_ button executes all your prototype code from top to button. The _Debug_ button allows you to step through your prototype line for line.
 
 <img src="../assets/run.png" alt="Run Section">
 
-To get started quickly, the Digital.Auto team has added a number of widgets to simulate related elements of the vehicle – like doors, seats, light, etc. – and made them available in the playground here: LINK (this will require TAGs to filter plugins by tag)
+To get started quickly, the Digital.Auto team has added a number of widgets to simulate related elements of the vehicle – like doors, seats, light, etc. – and made them available in the playground.
 
-Feel free to add your own Plugins with addition widgets for additional car features (maybe an antenna waving a warm “welcome”…?) as described: [here](LINK to PG doc/wiki).
+Feel free to add your own Plugins with addition widgets for additional car features (maybe an antenna waving a warm “welcome”…?).
 
 **Next step:** [Transfer your prototype into a working application](/docs/step-2-generating.md)
