@@ -1,52 +1,39 @@
-# Hack Challenge "Welcome Passenger"
-## Step 1 - Prototype your use case
+# Hack Challenge 'Passenger Welcome'
 
-The digital playground : provides a interface between sdv(python) and VSS implementation, realized in Java script.
-Digital Playground is a open web based playground for digital.auto dev and provides a rapid prototyping environment for the validation of ideas for Software-defined Vehicle using COVESA vehicle APIs and Python.
+The open and web based [digital.auto.playground](https://digitalauto.netlify.app/) offers a rapid prototyping environment to explore and validate ideas of a vehicle app which interact with the different vehicle sensors and actuators via standardized APIs specified by the COVESA [Vehicle Signal Specification (VSS)](https://covesa.github.io/vehicle_signal_specification/introduction/) without custom setup requirements. It provides the opportunity:
 
-There are approximately 700 VSS API's in CVI (connected vehicle interfaces), we have facilitated a mapping between VSS and the 3d model of the Vehicle, more description follows like dependencies and implementation.
+- To browse, navigate and enhance the vehicle signals (sensors, actuators and branches) in the [Vehicle API Catalogue]() mapped to a 3D model of the vehicle
+- To build vehicle app prototypes in the browser using Python and the Vehicle API Catalogue
+- To test the vehicle app prototype a dashboard in the browser with 3D animation for API calls
+- To create new plugins, which usually represent UX widgets or remote server communication to enhance the vehicle mockup experience in the playground
+- To collect and evaluate user feedback to prioritize your development portfolio
 
-Projects Library : There are different usecases like Smart vipers, Happy dog.
-The button 'open' would redirect to a new page with the code related to prototypical implementation and the user interface.
+## Step 1 - Prototype your idea of the 'Passenger Welcome' functionality
 
-The dashboard consists of all the vehicle components and application components similar to mockups.
+As first step open [digital.auto.playground](https://digitalauto.netlify.app/) select [_Get Started_](https://digitalauto.netlify.app/model) in the Prototyping section of the landing page and select the Vehicle Model of your team.
 
-The run button executes all the VSS API's and specific API's used can be known clicking the CVI button.
+**Note**: If you do not have an own Vehicle Model assigned to your team please contact the Velocitas Hack Coaches. It is important that each team uses their own Vehicle Model and with that their own prototype instance, otherwise you would override the changes of the other teams.
 
-Dev language : Python (used for mapping)
-API : VSS
+Now you have the option to check the existing vehicle signals by selecting the _Vehicle APIs_ and validate if the required signals for your interpretation of the 'Passenger Welcome' functionality exist and how they are named.
 
-Test environment : 3D animation for API calls
-Why are we using Digital playground?
-Rapid protyping without custom setup requirements.
-Ideal platform for SDV innovation challenges and to Communicate key solution concepts.
-Software defined vehicle  : helps in exploration and validation.
+<img src="../assets/CVI_Catalogue.png" alt="Vehicle API Catalogue">
 
-There are different types of API's Sensors and Actuators.
-CVI catalogoue and Prototyping : CVI catalogoue provides the information about all the vehicle API's (sensors, actuators and branches).
-and Protoyping provides the different vehicle models.
+The next step would be to prototype your idea. To do so:
 
-The different vehicle models provides further information to the usecases related to them, for example smart trailer corresponds to usecase ideal for problem statements related to smart trailer, and similarily smart truck Vehicle model corresponds to problem statement related to Truck.
+- Click on _Prototypes_ (in the top right toolbar),
+- Create a new prototype, by clicking on _New Prototype_ and filling out the informations,
+- Click on the _Open_ button (right side),
+- Go to the _Code_ section and
+- Start your prototype right away.
 
-The landing page includes three options, the Prototype navigates to the different uses case, corresponding to various Vehicle models.
-Exploring the Vehicle models and the pertaining usecases to get a better understanding.
+<img src="../assets/code.png" alt="Code Section">
 
--	Software-defined Vehicles (SdV) provide the means to create new customer and vehicle experiences by enabling developer to deploy QM applications on the vehicle which interact with the different vehicle sensors and actuators via standardized APIs. QM here means “Quality Manged”, i.e. we are not talking about fully hardened, ASIL-type of vehicle control applications, but rather about higher-level applications.
--	The digital.auto playground provides a rapid prototyping environment for such QM SdV applications, utilizing the COVESA VSS set of vehicle interfaces. COVESA is the Connected Vehicle Systems Alliance, which defines the Vehicle Signal Service catalogue.
--	A quick introduction for how to use the playground to build SdV prototypes can be found here: LINK to overview video
--	A key feature of the playground is the ability to create new plugins, which usually represent UX widgets or remote server communication to enhance the vehicle mockup experience in the playground. A detailed description of how to use and create plugins for the the digital.auto playground can be found here: …LINK TO PG DOC / Wiki
--	For the BCX hackathon, we have identified one specific use case as the foundation for the hack challenges, namely the “Passenger Welcome” use case
--	The idea of the “Passenger Welcome” use case is that the driver (or a passenger) is detected while he is approaching the vehicle.
--	Based on this information, the SdV Welcome-application could control a sequence of events, such as welcoming the passenger with a special lighting sequence (using lights outside and/or inside the car), automatically opening the door, adjusting the seat position according to driver preferences, the same for steering wheel position, HVAC, music, etc. – there is no limitation to the creativity in this hackathon
--	To help BCX hackers to get started quickly, we have added a number of widgets to simulate related elements of the vehicle – like doors, seats, light, etc. – and made them available in the playground here: LINK (this will require TAGs to filter plugins by tag)
--	Feel free to use the playground to:
-o	Start tinkering with the default “Passenger Welcome” Plugins
-o	Add your own Plugins with addition widgets for additional car features (maybe an antenna waving a warm “welcome”…?
-o	Use plugins for remote connectivity to connect to real hardware, like the Car Seat provided by Bosch ETAS
-o	Use the playground “wishlist” feature to add additional VSS sensors and actuators which you need but are not yet part of the COVESA standard
+To test your prototype go to the _Run_ section, which opens a dashboard consisting all vehicle and application components similar to mockups. The control center on the right side has an integrated terminal showing all of your prototyped outputs as well as a list of all called VSS API's. The _Run_ button executes all your prototype code from top to button. The _Debug_ button allows you to step through your prototype line for line.
 
+<img src="../assets/run.png" alt="Run Section">
 
+To get started quickly, the Digital.Auto team has added a number of widgets to simulate related elements of the vehicle – like doors, seats, light, etc. – and made them available in the playground.
 
+Feel free to add your own Plugins with addition widgets for additional car features (maybe an antenna waving a warm “welcome”…?).
 
-
-
+**Next step:** [Transfer your prototype into a working application](/docs/step-2-generating.md)
