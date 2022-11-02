@@ -26,7 +26,7 @@ We would recomment the following steps for the hack challenge:
 
 [Step 2 - Transfer your prototype into a vehicle application](/docs/step-2-generating.md)
 
-[Step 3 - Extend your application and test locally](/docs/step-3-exending.md)
+[Step 3 - Extend your application and test locally](/docs/step-3-extending.md)
 
 [Step 4 - Build and deploy to a device](/docs/step-4-deploying.md)
 
