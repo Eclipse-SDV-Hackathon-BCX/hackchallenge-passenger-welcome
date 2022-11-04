@@ -32,13 +32,12 @@ By default the template repository comes with automated CodeQL Analysis to autom
 **Disable Linters in CI**
 
 [playground.digital.auto](https://digitalauto.netlify.app/) does not include automated code formatting/linting.\
-To avoid failing CI workflows due to linting errors in your new repository you have two options:
-
-- Fix linting issues manually by running the linter in Visual Studio Code
-- Comment out following lines in `./.github/workflows/ci.yml`
+To avoid failing CI workflows due to linting errors in your new repository the `Run Linters` CI step is disabled by default.
+You can enable it by changing false -> true in the `./.github/workflows/ci.yml` file
 
 ```yaml
 - name: Run Linters
+  if: ${{ false }}
   uses: ./.github/actions/pre-commit-action
 ```
 
