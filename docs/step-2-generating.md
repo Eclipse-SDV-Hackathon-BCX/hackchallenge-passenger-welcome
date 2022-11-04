@@ -19,9 +19,9 @@ After the generation of the repository is completed a pop-up dialog with your re
 - _/.devcontainer_/ required scripts to install every prerequisites in Microsoft Visual Studio Code
 - _/.github/workflows/_ with all required CI/CD pipelines to build, test and deploy the vehicle application as container image to the GitHub container registry
 
-Your vehicle application transfered now to a GitHub repository and is ready to be extended. Clone your new repository and start it with Microsoft Visual Studio Code. Detailed information you can find here: [Velocitas documentation - Starting development environment](https://websites.eclipseprojects.io/velocitas/docs/tutorials/quickstart/#starting-development-environment)
+Your vehicle application transfered now to a GitHub repository and is ready to be tested and extended in Velocitas. Clone your new repository and start it with Microsoft Visual Studio Code. Now it's time to make you familiar with Velocitas. Detailed information you can find here: [Velocitas documentation - Starting development environment](https://websites.eclipseprojects.io/velocitas/docs/tutorials/quickstart/#starting-development-environment). Have a look also on the following points.
 
-### Sharpen your generated Repository
+### Test and sharpen your generated Repository
 
 **CodeQL Analysis**
 
@@ -29,7 +29,7 @@ By default the template repository comes with automated CodeQL Analysis to autom
 
 ---
 
-**Disable Linters in CI**
+**Disabled Linters in CI**
 
 [playground.digital.auto](https://digitalauto.netlify.app/) does not include automated code formatting/linting.\
 To avoid failing CI workflows due to linting errors in your new repository the `Run Linters` CI step is disabled by default.
