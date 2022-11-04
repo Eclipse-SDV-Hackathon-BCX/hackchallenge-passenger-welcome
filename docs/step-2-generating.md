@@ -21,11 +21,10 @@ After the generation of the repository is completed a pop-up dialog with your re
 
 Your vehicle application transfered now to a GitHub repository and is ready to be extended. Clone your new repository and start it with Microsoft Visual Studio Code. Detailed information you can find here: [Velocitas documentation - Starting development environment](https://websites.eclipseprojects.io/velocitas/docs/tutorials/quickstart/#starting-development-environment)
 
-{{% alert title="CodeQL Analysis" %}}
+**CodeQL Analysis**:
 By default the template repository comes with automated CodeQL Analysis to automatically detect common vulnerabilities and coding errors. It is available if you have a [GitHub advanced security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security) license in your org or if your repository is public. To change visibility: Go to your repository settings -> General -> Danger Zone (at the bottom) -> Change repository visibility -> Change visibility to public.
-{{% /alert %}}
 
-{{% alert title="Disable Linters in CI" %}}
+**Disable Linters in CI**:
 [playground.digital.auto](https://digitalauto.netlify.app/) does not include automated code formatting/linting.\
 To avoid failing CI workflows due to linting errors in your new repository you have two options:
 
@@ -37,9 +36,7 @@ To avoid failing CI workflows due to linting errors in your new repository you h
   uses: ./.github/actions/pre-commit-action
 ```
 
-{{% /alert %}}
-
-{{% alert color="warning" title="Manual Adaptions" %}}
+**Manual Adaptions**:
 Since the project-generator identifies typical python syntax and patterns out of the prototype there could be several cases where manual code adaptions cannot be excluded.\
 Most of the prototype code is extracted into the `on_start`-method of velocitas.
 
@@ -48,7 +45,6 @@ Most of the prototype code is extracted into the `on_start`-method of velocitas.
 - Have in mind that Velocitas uses the standard [VSS](https://covesa.github.io/vehicle_signal_specification/) model. If you use custom signals in your prototype, you have to find similar standard signals to use in Velocitas.
 
 If you have any additional findings, please do not hesitate to approach one of our coaches.
-{{% /alert %}}
 
 Depending on your ideated functionality for the 'Welcome Passenger' you could e.g.
 
