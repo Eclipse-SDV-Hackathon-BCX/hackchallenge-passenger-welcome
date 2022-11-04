@@ -32,9 +32,9 @@ We would recomment the following steps for the hack challenge:
 
 You can test this for example on the following hardware setups:
 
-|Sead Ajuster Suite Case| Bulli Lights Suite Case | RasPI|
+|<img src="/assets/img/suitcase_seat.png" width="335">|<img src="/assets/img/suitcase_lights.jpg" width="400"> | <img src="pican2_withnotes.jpg" width="400">|
 |-|-|-|
-| <img src="/assets/img/suitcase_seat.png"> | <img src="/assets/img/suitcase_lights.jpg"> | <img src=""> |
+|Sead Ajuster Suite Case |  Bulli Lights Suite Case | RasPI |
 
 
 Happy hacking!
