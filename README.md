@@ -36,5 +36,6 @@ You can test your prototype for example on the following hardware setups:
 |-|-|-|
 |Sead Ajuster Suite Case |  [Bulli Lights Suite Case](https://github.com/Eclipse-SDV-Hackathon-BCX/hackchallenge-control-vehicle-lights) | RasPI |
 
+You can combine this hack challenge with the [HackChallenge: Control Vehicle Lights](https://github.com/Eclipse-SDV-Hackathon-BCX/hackchallenge-control-vehicle-lights) in case you ideate an implementation with lights.
 
 Happy hacking!
