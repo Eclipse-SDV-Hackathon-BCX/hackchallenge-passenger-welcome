@@ -52,6 +52,7 @@ Most of the prototype code is extracted into the `on_start`-method of velocitas.
 - Prototyped local variables which need to be accessed e.g. in callback methods need to be global (move them out above the VehicleApp class).
 - Depending on how using variables in a Print/Logging statement is implemented, statements need to be adapted in Velocitas.
 - Have in mind that Velocitas uses the standard [VSS](https://covesa.github.io/vehicle_signal_specification/) model. If you use custom signals in your prototype, you have to find similar standard signals to use in Velocitas.
+- Programmatically used plugins (plugins.\*) in your prototype are not supported in Velocitas.
 
 If you have any additional findings, please do not hesitate to approach one of our coaches.
 
