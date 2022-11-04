@@ -2,19 +2,19 @@
 
 Tutorial Available also at [Velocitas Documentation](https://websites.eclipseprojects.io/velocitas/docs/tutorials/prototyping/).
 
-The open and web based [digital.auto.playground](https://digitalauto.netlify.app/) offers a rapid prototyping environment to explore and validate ideas of a vehicle app which interact with the different vehicle sensors and actuators via standardized APIs specified by the COVESA [Vehicle Signal Specification (VSS)](https://covesa.github.io/vehicle_signal_specification/introduction/) without custom setup requirements. It provides the opportunity:
+The open and web based playground of _digital.auto_ offers a rapid prototyping environment to explore and validate ideas of a vehicle app which interact with the different vehicle sensors and actuators via standardized APIs specified by the COVESA [Vehicle Signal Specification (VSS)](https://covesa.github.io/vehicle_signal_specification/introduction/) without custom setup requirements. It provides the opportunity:
 
-- To browse, navigate and enhance the vehicle signals (sensors, actuators and branches) in the [Vehicle API Catalogue]() mapped to a 3D model of the vehicle
-- To build vehicle app prototypes in the browser using Python and the Vehicle API Catalogue
+- To browse, navigate and enhance the vehicle signals (sensors, actuators and branches) in the _Vehicle API Catalogue_ mapped to a 3D model of the vehicle
+- To build vehicle app prototypes in the browser using Python and the _Vehicle API Catalogue_
 - To test the vehicle app prototype a dashboard in the browser with 3D animation for API calls
 - To create new plugins, which usually represent UX widgets or remote server communication to enhance the vehicle mockup experience in the playground
 - To collect and evaluate user feedback to prioritize your development portfolio
 
 ## Step 1 - Prototype your idea of the 'Passenger Welcome' functionality
 
-As first step open [digital.auto.playground](https://digitalauto.netlify.app/) select [_Get Started_](https://digitalauto.netlify.app/model) in the Prototyping section of the landing page and select the Vehicle Model of your team.
+As first step open [digital.auto.playground](https://bcx.digital.auto/) select [_Get Started_](https://bcx.digital.auto/model) in the Prototyping section of the landing page and select the Vehicle Model of your team.
 
-**Note**: If you do not have an own Vehicle Model assigned to your team please contact the Velocitas Hack Coaches. It is important that each team uses their own Vehicle Model and with that their own prototype instance, otherwise you would override the changes of the other teams.
+> **_NOTE:_**  If you do not have an own Vehicle Model assigned to your team please contact the Velocitas Hack Coaches. It is important that each team uses their own Vehicle Model and with that their own prototype instance, otherwise you would override the changes of the other teams.
 
 Now you have the option to check the existing vehicle signals by selecting the _Vehicle APIs_ and validate if the required signals for your interpretation of the 'Passenger Welcome' functionality exist and how they are named.
 

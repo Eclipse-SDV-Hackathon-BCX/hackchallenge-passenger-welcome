@@ -30,6 +30,12 @@ We would recomment the following steps for the hack challenge:
 
 [Step 4 - Build and deploy to a device](/docs/step-4-deploying.md)
 
+You can test your prototype for example on the following hardware setups:
 
+|<img src="/assets/img/suitcase_seat.png" width="335">|<img src="/assets/img/suitcase_lights.jpg" width="400"> | <img src="/assets/img/pican2_withnotes.jpg" width="330">|
+|-|-|-|
+|Sead Ajuster Suite Case |  [Bulli Lights Suite Case](https://github.com/Eclipse-SDV-Hackathon-BCX/hackchallenge-control-vehicle-lights) | RasPI |
+
+You can combine this hack challenge with the [HackChallenge: Control Vehicle Lights](https://github.com/Eclipse-SDV-Hackathon-BCX/hackchallenge-control-vehicle-lights) in case you ideate an implementation with lights.
 
 Happy hacking!
