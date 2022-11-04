@@ -30,6 +30,11 @@ We would recomment the following steps for the hack challenge:
 
 [Step 4 - Build and deploy to a device](/docs/step-4-deploying.md)
 
+You can test this for example on the following hardware setups:
+
+|Sead Ajuster Suite Case| Bulli Lights Suite Case | RasPI|
+|-|-|-|
+| <img src="/assets/img/suitcase_seat.png"> | <img src="/assets/img/suitcase_lights.jpg"> | <img src=""> |
 
 
 Happy hacking!
