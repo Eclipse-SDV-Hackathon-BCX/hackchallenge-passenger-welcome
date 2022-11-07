@@ -24,8 +24,10 @@ Our use case starts once the proximity of the passenger has been detected. In th
 
 Of course there are no limitations to the creativity here to add additional elements to the welcome sequence.
 A first SdV prototype of the welcome sequence is available in the BCX playground envionment.
+Please have a look at this [video](https://drive.google.com/file/d/1zLexIQDM5UIkn85QjysGiD-SaK7cwSbG/view?usp=share_link) to learn more about the BCX setup we have prepared for you in the playground.
 
 |<img src="/assets/PassengerWelcome.png" width="800">|
+
 
 ## Step 1 - Prototype your idea of the 'Passenger Welcome' functionality
 
