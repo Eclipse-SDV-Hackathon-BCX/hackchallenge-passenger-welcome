@@ -28,7 +28,6 @@ Please have a look at this [video](https://drive.google.com/file/d/1zLexIQDM5UIk
 
 |<img src="/assets/PassengerWelcome.png" width="800">|
 
-
 ## Step 1 - Prototype your idea of the 'Passenger Welcome' functionality
 
 As first step open [digital.auto.playground](https://bcx.digital.auto/) select [_Get Started_](https://bcx.digital.auto/model) in the Prototyping section of the landing page and select the Vehicle Model of your team.
@@ -53,8 +52,11 @@ To test your prototype go to the _Run_ section, which opens a dashboard consisti
 
 <img src="../assets/run.png" alt="Run Section">
 
-To get started quickly, the Digital.Auto team has added a number of widgets to simulate related elements of the vehicle – like doors, seats, light, etc. – and made them available in the playground.
+To get started quickly, the digital.auto team has added a number of widgets to simulate related elements of the vehicle – like doors, seats, light, etc. – and made them available in the playground.
 
-Feel free to add your own Plugins with addition widgets for additional car features (maybe an antenna waving a warm “welcome”…?).
+## Step 2 (optional) - add custom plugins for advanced prototypes
+You might  have additional ideas for vehicle features which you would like to add to your prototype, e.g. an antenna waving a warm “welcome”…. If you need additinal plugins to support this, you can add them on your own. Check out [this video](https://drive.google.com/file/d/1Z-tv5COhmX-lQGtHMSUZWLuvv5PoFAFR/view?usp=share_link) which is explaining how to develop plugins. Additional documentation can be found on the developer [documentation pages] (https://www.digitalplaybook.org/index.php?title=Documentation:_playground.digital.auto).
+
+|<img src="/assets/PassengerWelcomePlugins.png" width="800">|
 
 **Next step:** [Transfer your prototype into a working application](/docs/step-2-generating.md)
