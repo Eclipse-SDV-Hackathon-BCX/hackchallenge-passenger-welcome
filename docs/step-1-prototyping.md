@@ -23,8 +23,9 @@ Our use case starts once the proximity of the passenger has been detected. In th
 - Adjust the seat to the preferences of the passenger
 
 Of course there are no limitations to the creativity here to add additional elements to the welcome sequence.
+A first SdV prototype of the welcome sequence is available in the BCX playground envionment.
 
-
+|<img src="/assets/PassengerWelcome.png" width="800">|
 
 ## Step 1 - Prototype your idea of the 'Passenger Welcome' functionality
 
