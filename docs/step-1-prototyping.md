@@ -10,6 +10,8 @@ The open and web based [Playground](http://playground.digital.auto) of _digital.
 - To create new plugins, which usually represent UX widgets or remote server communication to enhance the vehicle mockup experience in the playground
 - To collect and evaluate user feedback to prioritize your development portfolio
 
+A short video to see the playground in action can be found [here](https://drive.google.com/file/d/1qYfakx6E592PWBtPzAc_m_LrmBsvaI9K/view?usp=share_link)
+
 ## Step 1 - Prototype your idea of the 'Passenger Welcome' functionality
 
 As first step open [digital.auto.playground](https://bcx.digital.auto/) select [_Get Started_](https://bcx.digital.auto/model) in the Prototyping section of the landing page and select the Vehicle Model of your team.
