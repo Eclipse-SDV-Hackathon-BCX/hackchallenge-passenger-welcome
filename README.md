@@ -6,7 +6,7 @@ One-Pager ([PowerPoint](./assets/BCX_Onepager_passenger_welcome.pptx), [PDF](./a
 
 The idea of the 'Passenger Welcome' use case is that the driver (or a passenger) is detected while he is approaching the vehicle. Based on this information, your _Welcome Vehicle Application_ could control a sequence of events, such as welcoming the passenger with a special lighting sequence (using lights outside and/or inside the car), automatically opening the door or trunk, adjusting the seat position according to driver preferences, the same for steering wheel position, cabin temperature or air condition, etc. – there is no limitation to the creativity in this hackathon. What comes to your mind about how your own vehicle or a carsharing car should behave when a passenger approaches?
 
-|<img src="/assets/PassengerWelcome.png" width="700">|
+|<img src="/assets/PassengerWelcome.png" width="800">|
 
 This hack challenge focuses on encouraging creativity, ideate ideas in the form of rapid prototyping in the playground of __Digital.Auto__ and transfer them easily to a working vehicle application trying out them on a devide using the Eclipse projects [__Velocitas__](https://websites.eclipseprojects.io/velocitas/), [__Kuksa__](https://www.eclipse.org/kuksa/) and [__Leda__](https://eclipse-leda.github.io/leda/) and, if applicable, [__SommR__](https://projects.eclipse.org/projects/automotive.sommr).
 
