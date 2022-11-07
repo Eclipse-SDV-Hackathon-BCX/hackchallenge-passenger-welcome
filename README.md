@@ -8,7 +8,7 @@ The idea of the 'Passenger Welcome' use case is that the driver (or a passenger)
 
 |<img src="/assets/PassengerWelcome.png" width="800">|
 
-This hack challenge focuses on encouraging creativity, ideate ideas in the form of rapid prototyping in the playground of __Digital.Auto__ and transfer them easily to a working vehicle application trying out them on a devide using the Eclipse projects [__Velocitas__](https://websites.eclipseprojects.io/velocitas/), [__Kuksa__](https://www.eclipse.org/kuksa/) and [__Leda__](https://eclipse-leda.github.io/leda/) and, if applicable, [__SommR__](https://projects.eclipse.org/projects/automotive.sommr).
+This hack challenge focuses on encouraging creativity, ideate ideas in the form of rapid prototyping in the playground of __digital.auto__ and transfer them easily to a working vehicle application trying out them on a devide using the Eclipse projects [__Velocitas__](https://websites.eclipseprojects.io/velocitas/), [__Kuksa__](https://www.eclipse.org/kuksa/) and [__Leda__](https://eclipse-leda.github.io/leda/) and, if applicable, [__SommR__](https://projects.eclipse.org/projects/automotive.sommr).
 
 In this hack challenge, you can
 - ideate your use case in easy way by using the provided playground,
