@@ -12,6 +12,11 @@ The open and web based [Playground](http://playground.digital.auto) of _digital.
 
 A short video to see the playground in action can be found [here](https://drive.google.com/file/d/1qYfakx6E592PWBtPzAc_m_LrmBsvaI9K/view?usp=share_link)
 
+## Passenger Welcome Use Case
+The basic idea of this use case is to implement a sequence of steps in SdV which welcomes the passenger, once his proximity to the vehicle has been detected. The proximity detection itself is currently not in scope.
+
+
+
 ## Step 1 - Prototype your idea of the 'Passenger Welcome' functionality
 
 As first step open [digital.auto.playground](https://bcx.digital.auto/) select [_Get Started_](https://bcx.digital.auto/model) in the Prototyping section of the landing page and select the Vehicle Model of your team.
