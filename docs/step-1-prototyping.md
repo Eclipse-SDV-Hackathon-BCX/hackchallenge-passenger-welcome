@@ -2,7 +2,7 @@
 
 Tutorial Available also at [Velocitas Documentation](https://websites.eclipseprojects.io/velocitas/docs/tutorials/prototyping/).
 
-The open and web based playground of _digital.auto_ offers a rapid prototyping environment to explore and validate ideas of a vehicle app which interact with the different vehicle sensors and actuators via standardized APIs specified by the COVESA [Vehicle Signal Specification (VSS)](https://covesa.github.io/vehicle_signal_specification/introduction/) without custom setup requirements. It provides the opportunity:
+The open and web based [Playground](http://playground.digital.auto) of _digital.auto_ offers a rapid prototyping environment to explore and validate ideas of a vehicle app which interact with the different vehicle sensors and actuators via standardized APIs specified by the COVESA [Vehicle Signal Specification (VSS)](https://covesa.github.io/vehicle_signal_specification/introduction/) without custom setup requirements. It provides the opportunity:
 
 - To browse, navigate and enhance the vehicle signals (sensors, actuators and branches) in the _Vehicle API Catalogue_ mapped to a 3D model of the vehicle
 - To build vehicle app prototypes in the browser using Python and the _Vehicle API Catalogue_
