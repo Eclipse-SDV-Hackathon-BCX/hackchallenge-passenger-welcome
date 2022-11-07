@@ -13,7 +13,16 @@ The open and web based [Playground](http://playground.digital.auto) of _digital.
 A short video to see the playground in action can be found [here](https://drive.google.com/file/d/1qYfakx6E592PWBtPzAc_m_LrmBsvaI9K/view?usp=share_link)
 
 ## Passenger Welcome Use Case
-The basic idea of this use case is to implement a sequence of steps in SdV which welcomes the passenger, once his proximity to the vehicle has been detected. The proximity detection itself is currently not in scope.
+The basic idea of this use case is to implement an SdV-controlled sequence of steps to welcome the passenger, once his proximity to the vehicle has been detected. The proximity detection itself is currently not in scope.
+
+|<img src="/assets/PassengerApproaching.png" width="800">|
+
+Our use case starts once the proximity of the passenger has been detected. In this case, the vehicle can perform a number of steps, including:
+- Automatically open the door
+- Play a sequence of differents ambient lights
+- Adjust the seat to the preferences of the passenger
+
+Of course there are no limitations to the creativity here to add additional elements to the welcome sequence.
 
 
 
